@@ -350,6 +350,11 @@ button {
 .overlay-effect-item:nth-child(9) {
   transition-delay: 0.4s;
 } */
+#logo{ 
+	position:fixed; 
+	top:0; 
+	left:0; 
+} 
 /* ======= Header ====== */
 .header {
   padding: 25px 0 0;
