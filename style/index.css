@@ -235,6 +235,12 @@ button {
   transition: all 0.5s ease;
 }
 
+#logo {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
 .overlay-effect-item:nth-child(odd) {
   animation: evenItems 1s ease;
 }
